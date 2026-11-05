@@ -38,12 +38,6 @@ The project leverages **Retrieval-Augmented Generation (RAG)** to retrieve relev
 
 The objective is to demonstrate the practical implementation of RAG technology for document understanding and intelligent information retrieval.
 
-## 👩‍💻 Author
-
-**Potu Bhagya Lakshmi**  
-B.Tech – Artificial Intelligence and Machine Learning  
-Bapatla Women's Engineering College
-
 ---
 
 ⭐ *Exploring AI, Machine Learning, and Generative AI through practical projects.*
